@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/habit_tracker_react/static/css/main.ce91239b.chunk.css",
+    "main.js": "/habit_tracker_react/static/js/main.4dbe36c7.chunk.js",
+    "main.js.map": "/habit_tracker_react/static/js/main.4dbe36c7.chunk.js.map",
+    "runtime-main.js": "/habit_tracker_react/static/js/runtime-main.aa386a5e.js",
+    "runtime-main.js.map": "/habit_tracker_react/static/js/runtime-main.aa386a5e.js.map",
+    "static/js/2.d7031ead.chunk.js": "/habit_tracker_react/static/js/2.d7031ead.chunk.js",
+    "static/js/2.d7031ead.chunk.js.map": "/habit_tracker_react/static/js/2.d7031ead.chunk.js.map",
+    "index.html": "/habit_tracker_react/index.html",
+    "static/css/main.ce91239b.chunk.css.map": "/habit_tracker_react/static/css/main.ce91239b.chunk.css.map",
+    "static/js/2.d7031ead.chunk.js.LICENSE.txt": "/habit_tracker_react/static/js/2.d7031ead.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa386a5e.js",
+    "static/js/2.d7031ead.chunk.js",
+    "static/css/main.ce91239b.chunk.css",
+    "static/js/main.4dbe36c7.chunk.js"
+  ]
+}
